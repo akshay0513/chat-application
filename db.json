@@ -1,0 +1,71 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Chelsie",
+      "username": "@chelsie",
+      "avatar": "https://t4.ftcdn.net/jpg/02/60/04/09/360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Orion",
+      "username": "@orion",
+      "avatar": "https://static.vecteezy.com/system/resources/thumbnails/028/287/384/small_2x/a-mature-indian-male-doctor-on-a-white-background-ai-generated-photo.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Brown",
+      "username": "@brown",
+      "avatar": "https://hips.hearstapps.com/hmg-prod/images/portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg?crop=0.66698xw:1xh;center,top&resize=640:*"
+    },
+    {
+      "id": "4",
+      "name": "Bessie",
+      "username": "@bessie",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW5xC7l1MPMk1D2hHH_5_xH-Nd5lsogHP_iw&s"
+    },
+    {
+      "id": "5",
+      "name": "Dora",
+      "username": "@dora",
+      "avatar": "https://t4.ftcdn.net/jpg/03/20/52/31/360_F_320523164_tx7Rdd7I2XDTvvKfz2oRuRpKOPE5z0ni.jpg"
+    }
+  ],
+  "messages": [
+    {
+      "id": "1",
+      "customerId": "1",
+      "text": "Hello, Chelsie!",
+      "timestamp": "2023-07-25T14:48:00.000Z",
+      "sender": "me"
+    },
+    {
+      "id": "2",
+      "customerId": "1",
+      "text": "Hi there!",
+      "timestamp": "2023-07-25T14:49:00.000Z",
+      "sender": "Chelsie"
+    },
+    {
+      "id": "3",
+      "customerId": "2",
+      "text": "Hello, Orion!",
+      "timestamp": "2023-07-25T14:48:00.000Z",
+      "sender": "me"
+    },
+    {
+      "id": "4",
+      "customerId": "2",
+      "text": "Hey!",
+      "timestamp": "2023-07-25T14:49:00.000Z",
+      "sender": "Orion"
+    },
+    {
+      "id": "235b",
+      "text": "hi",
+      "timestamp": "2024-07-25T15:21:07.561Z",
+      "sender": "me",
+      "customerId": "3"
+    }
+  ]
+}
