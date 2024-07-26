@@ -1,15 +1,5 @@
 <template>
   <div class="bg-gray-800 text-gray-200 p-4 flex flex-col space-y-4">
-    <div class="flex items-center space-x-2 bg-gray-700 p-2 rounded-md">
-      <input
-        type="text"
-        placeholder="Search or type a command"
-        class="bg-transparent flex-1 outline-none text-gray-200"
-      />
-      <button class="text-gray-400 hover:text-gray-200">
-        <i class="fas fa-search"></i>
-      </button>
-    </div>
     <div class="flex-1 overflow-y-auto">
       <ul class="space-y-4">
         <li
